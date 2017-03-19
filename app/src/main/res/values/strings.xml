@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpringAnimation</string>
+    <string name="stiffness">stiffness</string>
+    <string name="damping">damping</string>
+    <string name="final_position">final_position</string>
+    <string name="reset">reset</string>
+</resources>
